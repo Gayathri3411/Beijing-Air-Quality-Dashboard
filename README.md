@@ -71,7 +71,7 @@ The dataset was cleaned, transformed, and structured using Power Query to ensure
 ## 6. Screenshots / Demo
 
 ### 📊 Dashboard Preview  
-![Dashboard Preview](https://github.com/Charan2812/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
+![Dashboard Preview](https://github.com/Gayathri3411/Beijing-Air-Quality-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png))
 
 ---
 
