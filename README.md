@@ -1,4 +1,4 @@
-# 🌫️ Beijing-Air-Quality-Dashboard
+# Beijing-Air-Quality-Dashboard
 
 ## 1. Project Title
 **Beijing Air Quality Analysis – Interactive Power BI Dashboard**
